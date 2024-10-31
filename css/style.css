@@ -271,3 +271,13 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+
+.nueva-clasejs {
+    color: white;
+    background-color: #9C592E;
+}
+
+.clase-maradona {
+    color: rgb(87, 240, 240);
+    background-color: #000093;
+}
